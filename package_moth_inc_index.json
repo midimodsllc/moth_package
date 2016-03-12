@@ -17,7 +17,7 @@
           "help": {
             "online": "https://www.midimods.com"
           },
-          "url": "https://www.midimods.com/software/moth_1.0.1.zip",
+          "url": "https://github.com/midimodsllc/moth_package/raw/master/moth_1.0.1.zip",
           "archiveFileName": "moth_1.0.1.zip",
           "checksum": "SHA-256:ff971d2cb9ad2b152f998226bce1978259b5848fea8211d6be741b0c4f77c79d",
           "size": "72030",
