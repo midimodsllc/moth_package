@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/midimodsllc/moth_package/raw/master/moth_1.0.1.zip",
           "archiveFileName": "moth_1.0.1.zip",
-          "checksum": "SHA-256:0e5ab311a89f5ce08efde08c2a5f8df8b758f65ff99b3b87124362bb781babd2",
-          "size": "57251",
+          "checksum": "SHA-256:9ba827028f129079782342d516bb1fc9725c91af36ee2a2b89b82c1c3a14daf9",
+          "size": "61174",
           "boards": [
             {"name": "Moth Turn"}
           ],
